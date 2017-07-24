@@ -38,14 +38,6 @@ see [Wikipedia](https://en.wikipedia.org/wiki/GitHub)
 **$ git pull remote branch** 
   
 ----
-##ADD COLLABORATORS  
-
-**STEPS**  
-1. Go to repository settings  
-2. Click on Collaborators on the left hand side  
-3. Add collaborator via username, full name,or email  
-
-----
 ##BRANCHES
 
 * List all existing branches.  
@@ -67,4 +59,28 @@ see [Wikipedia](https://en.wikipedia.org/wiki/GitHub)
 * Discard all local changes in your working directory.  
 **$ git checkout [HEAD ID]** 
 
+
+----
+##ADD COLLABORATORS
+
+**STEPS**
+1. Go to repository settings
+2. Click on Collaborators on the left hand side
+3. Add collaborator via username, full name,or email
+
+
+----
+##PULL REQUEST
+
+**STEPS**
+1. Go to repository 
+2. Click on Pull request
+3. Click on New pull request button
+4. Change compare barnch to the barnch you want pulled
+5. Click on Create pull request
+6. Describe your pull request to repository admin
+7. Submit pull request
+
+
+[Git Concepts: HEAD, master, origin ](https://stackoverflow.com/questions/8196544/what-are-the-git-concepts-of-head-master-origin)
 

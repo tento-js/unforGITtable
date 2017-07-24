@@ -1,0 +1,11 @@
+9:15 - meeting ends / set up for demo
+
+9:30 - start demo, go over Create, Local, and Undo Commands
+
+9:45 - stop demo / Matt sets up 
+
+10:00 - class starts
+
+during 45 min class break - take 25 mins to demo how to Collaborate, Branch Commands, and Pull Requests
+
+after class -  class activity / pair up to do class exercise 
