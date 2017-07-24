@@ -38,7 +38,8 @@ see [Wikipedia](https://en.wikipedia.org/wiki/GitHub)
 **$ git pull <remote> <branch>** 
   
 ----
-##ADD COLLABORATORS
+##ADD COLLABORATORS  
+
 **STEPS**  
 1. Go to repository settings  
 2. Click on Collaborators on the left hand side  
@@ -50,7 +51,7 @@ see [Wikipedia](https://en.wikipedia.org/wiki/GitHub)
 * List all existing branches.  
 **$ git branch**
 * Make new branch    
-**$ git branch <new-branch-name>**   
+**$ git branch <branch>**   
 * Switch to different branch    
 **$ git checkout <branch>** 
 * Delete a local branch    
@@ -64,6 +65,6 @@ see [Wikipedia](https://en.wikipedia.org/wiki/GitHub)
 * Apply all stashed changes to current branch.  
 **$ git stash apply** 
 * Discard all local changes in your working directory.  
-**$ git stash apply** 
+**$ git checkout HEAD** 
 
 
