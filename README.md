@@ -2,23 +2,25 @@ A quick GitHub Demo to show the students at SMU
 
 ![gh-logo](https://user-images.githubusercontent.com/15793521/28505229-7317ae18-6fe7-11e7-8665-ae3539a72266.png)
 
-----
-## what is GitHub?
+
+what is GitHub?
+-----------
 
 see [Wikipedia](https://en.wikipedia.org/wiki/GitHub)
 
 > GitHub is a web-based Git or version control repository and Internet hosting service. It is mostly used for code. It offers all of the distributed version control and source code management (SCM) functionality of Git as well as adding its own features. It provides access control and several collaboration features such as bug tracking, feature requests, task management, and wikis for every project.
 
-----
-##CREATE
+
+CREATE
+-----------
 
 * Clone an existing repository.  
 **$ git clone ssh-key**  
 * Create a new local repository.  
 **$ git init** 
 
-----
-##LOCAL 
+LOCAL
+----------- 
 
 * Check the changes in your working directory.  
 **$ git status**  
@@ -37,8 +39,8 @@ see [Wikipedia](https://en.wikipedia.org/wiki/GitHub)
 * Does a git fetch followed by a git pull.  
 **$ git pull remote branch** 
   
-----
-##BRANCHES
+BRANCHES
+-----------
 
 * List all existing branches.  
 **$ git branch**
@@ -49,8 +51,8 @@ see [Wikipedia](https://en.wikipedia.org/wiki/GitHub)
 * Delete a local branch    
 **$ git branch -d [branch]** 
    
-----
-##UNDO
+UNDO
+-----------
 
 * Stash all uncommitted changes and revert back to previous commit.  
 **$ git stash**  
@@ -60,8 +62,9 @@ see [Wikipedia](https://en.wikipedia.org/wiki/GitHub)
 **$ git checkout [HEAD ID]** 
 
 
-----
-##ADD COLLABORATORS
+
+ADD COLLABORATORS
+-----------
 
 **STEPS**
 1. Go to repository settings
@@ -69,8 +72,8 @@ see [Wikipedia](https://en.wikipedia.org/wiki/GitHub)
 3. Add collaborator via username, full name,or email
 
 
-----
-##PULL REQUEST
+PULL REQUEST
+-----------
 
 **STEPS**
 1. Go to repository 
@@ -82,5 +85,8 @@ see [Wikipedia](https://en.wikipedia.org/wiki/GitHub)
 7. Submit pull request
 
 
-[Git Concepts: HEAD, master, origin ](https://stackoverflow.com/questions/8196544/what-are-the-git-concepts-of-head-master-origin)
+Git Concepts  
+-----------
+
+[ HEAD, master, origin ](https://stackoverflow.com/questions/8196544/what-are-the-git-concepts-of-head-master-origin)
 
