@@ -1,0 +1,13 @@
+body{
+	background-color: #1D2031;
+}
+
+header{
+	text-align: center;
+	margin-top: 50px;
+}
+
+#header-img{
+	width: 400px;
+	/* border-bottom: solid 2px white;   */
+}

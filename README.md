@@ -88,6 +88,6 @@ PULL REQUEST
 Git Concepts  
 -----------
 
-[Git Cheat Sheet](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)
+[Git Cheat Sheet](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)  
 [HEAD, master, origin](https://stackoverflow.com/questions/8196544/what-are-the-git-concepts-of-head-master-origin)
 
