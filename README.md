@@ -29,13 +29,13 @@ see [Wikipedia](https://en.wikipedia.org/wiki/GitHub)
 * Commit previously staged changes.  
 **$ git commit -m "reminder text"**
 * Push local changes to remote(Github).  
-**$ git push <remote> <branch>** 
+**$ git push remote branch** 
 * Downloads all remote changes without merging.  
 **$ git fetch**  
 * Merge <branch> into current branch 
 **$ git merge <branch>**
 * Does a git fetch followed by a git pull.  
-**$ git pull <remote> <branch>** 
+**$ git pull remote branch** 
   
 ----
 ##ADD COLLABORATORS  
@@ -51,11 +51,11 @@ see [Wikipedia](https://en.wikipedia.org/wiki/GitHub)
 * List all existing branches.  
 **$ git branch**
 * Make new branch    
-**$ git branch <branch>**   
+**$ git branch branch**   
 * Switch to different branch    
-**$ git checkout <branch>** 
+**$ git checkout branch** 
 * Delete a local branch    
-**$ git branch -d <branch>** 
+**$ git branch -d branch** 
    
 ----
 ##UNDO
