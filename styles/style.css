@@ -1,5 +1,11 @@
 body{
 	background-color: #1D2031;
+    font-family: 'Ubuntu', sans-serif;
+    color: white;	
+}
+
+body a{
+	color: white;
 }
 
 header{
@@ -7,7 +13,58 @@ header{
 	margin-top: 50px;
 }
 
+h3{
+	color: red;
+}
+
 #header-img{
 	width: 400px;
-	/* border-bottom: solid 2px white;   */
 }
+
+#header-words{
+	line-height: 10px;
+	font-size: 50px;
+    font-family: 'Exo', sans-serif;
+    margin-bottom: 75px;
+}
+
+section{
+	padding: 0 50px 0px 50px;
+	text-align: center;
+}
+
+footer{
+	right: 0;
+  	bottom: 0;
+  	position: relative;
+ 	padding: 10px 1rem 10px 0;
+ 	margin-top: 50px;
+ 	font-size: 0.7em;
+  	text-align: right;
+}
+
+footer p{
+	margin-bottom:0;
+}
+
+
+
+ /* Style the buttons that are used to open and close the accordion panel */
+div.accordion {
+    cursor: pointer;
+    border: none;
+    outline: none;
+
+}
+
+/* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
+div.accordion.active, div.accordion:hover {
+    background-color: white;
+    color: #1D2031;
+}
+
+/* Style the accordion panel. Note: hidden by default */
+div.panel {
+    padding: 0 18px 0 0;
+    display: none;
+} 
